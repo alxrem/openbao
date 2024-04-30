@@ -137,6 +137,8 @@ require (
 	github.com/shirou/gopsutil/v4 v4.24.12
 	github.com/stretchr/testify v1.10.0
 	github.com/tink-crypto/tink-go v0.0.0-20230613075026-d6de17e3f164
+	github.com/yandex-cloud/go-genproto v0.0.0-20250304111827-f558b88ff434
+	github.com/yandex-cloud/go-sdk v0.0.0-20250311132953-afa71dbcc1fc
 	go.etcd.io/bbolt v1.3.11
 	go.opentelemetry.io/otel v1.34.0
 	go.opentelemetry.io/otel/sdk v1.34.0
@@ -239,6 +241,7 @@ require (
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/fxamacker/cbor/v2 v2.7.0 // indirect
 	github.com/gammazero/deque v0.2.1 // indirect
+	github.com/ghodss/yaml v1.0.0 // indirect
 	github.com/go-asn1-ber/asn1-ber v1.5.7 // indirect
 	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
