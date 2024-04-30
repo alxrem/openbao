@@ -140,6 +140,8 @@ require (
 	github.com/sethvargo/go-limiter v0.7.1
 	github.com/shirou/gopsutil/v3 v3.22.6
 	github.com/stretchr/testify v1.9.0
+	github.com/yandex-cloud/go-genproto v0.0.0-20240911120709-1fa0cb6f47c2
+	github.com/yandex-cloud/go-sdk v0.0.0-20240911121212-e4e74d0d02f5
 	go.etcd.io/bbolt v1.3.7
 	go.opentelemetry.io/otel v1.19.0
 	go.opentelemetry.io/otel/sdk v1.19.0

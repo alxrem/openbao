@@ -21,5 +21,5 @@ var (
 	// Filled by Goreleaser
 	fullVersion                   = "2.0.0-HEAD"
 	Version, VersionPrerelease, _ = strings.Cut(strings.TrimSpace(fullVersion), "-")
-	VersionMetadata               = ""
+	VersionMetadata               = "yckms"
 )
